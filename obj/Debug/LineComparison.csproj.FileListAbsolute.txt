@@ -1,0 +1,7 @@
+C:\Users\KANAK\source\repos\linecompari\linecompari\obj\Debug\LineComparison.csproj.AssemblyReference.cache
+C:\Users\KANAK\source\repos\linecompari\linecompari\obj\Debug\LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\KANAK\source\repos\linecompari\linecompari\obj\Debug\linecompari.exe
+C:\Users\KANAK\source\repos\linecompari\linecompari\obj\Debug\linecompari.pdb
+C:\Users\KANAK\source\repos\linecompari\linecompari\bin\Debug\linecompari.exe.config
+C:\Users\KANAK\source\repos\linecompari\linecompari\bin\Debug\linecompari.exe
+C:\Users\KANAK\source\repos\linecompari\linecompari\bin\Debug\linecompari.pdb
